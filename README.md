@@ -3,7 +3,7 @@ Package to Create Tables Using Planned Foreign Assistance Data
 
 To install and use package: 
 ```
-devtools::install("C:/users/annar/Desktop/R Code/kffplannedforeignassistance")
+devtools::install_github("annamrouw/kffplannedforeignassistance")
 
 library(kffplannedforeignassistance)
 ```
